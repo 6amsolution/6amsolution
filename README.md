@@ -1,6 +1,5 @@
 # Hammad Munir | Founding Director – 6amsolution Private Limited
-
-![Banner](https://raw.githubusercontent.com/6amsolution/6amsolution/main/assets/banner.png)  
+ 
 *Empowering businesses with innovative cybersecurity and digital solutions*
 
 ---
