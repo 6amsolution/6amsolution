@@ -1,130 +1,193 @@
-# Hammad Munir | Founding Director – 6amsolution Private Limited
- 
-*Empowering businesses with innovative cybersecurity and digital solutions*
+<div align="center">
+
+```
+██████╗  █████╗ ███╗   ███╗███████╗ █████╗ ███╗   ███╗
+██╔════╝██╔══██╗████╗ ████║██╔════╝██╔══██╗████╗ ████║
+██║     ███████║██╔████╔██║███████╗██║  ██║██╔████╔██║
+██║     ██╔══██║██║╚██╔╝██║╚════██║██║  ██║██║╚██╔╝██║
+╚██████╗██║  ██║██║ ╚═╝ ██║███████║╚█████╔╝██║ ╚═╝ ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝ ╚════╝ ╚═╝     ╚═╝
+```
+
+# Hammad Munir
+### Founding Director & CEO · 6amsolution Private Limited
+
+**Offensive Security · Bug Bounty · Red Teaming · Full-Stack Dev · SEO**
+
+[![Twitter](https://img.shields.io/badge/@6amsolution-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/6amsolution)
+[![LinkedIn](https://img.shields.io/badge/6amsolution-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/6amsolution)
+[![Website](https://img.shields.io/badge/6amsolution.pk-FF4500?style=flat-square&logo=firefox&logoColor=white)](https://6amsolution.pk)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:6amsolution@gmail.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
+
+</div>
 
 ---
 
-## 👋 Welcome!
+## `whoami`
 
-Hello! I’m **Hammad Munir**, a passionate cybersecurity expert, digital solutions architect, and entrepreneur with over a decade of experience. As the **Founding Director and CEO of 6amsolution Private Limited**, I specialize in offensive security, bug bounty hunting, red teaming, web application development, SEO strategy, e-commerce innovation, and business development.
+```bash
+$ cat /etc/hammad.conf
 
-My mission is to empower organizations and security researchers by delivering advanced tools, training, and consultancy services to make the digital world safer and more efficient.
+NAME        = "Hammad Munir"
+ROLE        = "Founding Director & CEO @ 6amsolution Pvt. Ltd."
+LOCATION    = "Pakistan 🇵🇰"
+EXPERIENCE  = "10+ years"
+FOCUS       = ["Offensive Security", "Bug Bounty", "Red Teaming", "Web Dev", "SEO"]
+MISSION     = "Make the digital world safer — one vulnerability at a time."
+```
 
----
-
-## 🌐 About Me
-
-- 🔐 **Cybersecurity & Offensive Security**  
-  Expert in penetration testing, vulnerability research, bug bounty programs, red team operations, and automated reconnaissance.
-
-- 💻 **Full-Stack Web Development**  
-  Proficient in Python, JavaScript, React, Node.js, Django, and Flask for building secure and scalable web applications and APIs.
-
-- 🚀 **SEO & Digital Marketing**  
-  Skilled in search engine optimization (SEO) strategies, keyword research, content marketing, and e-commerce platform growth.
-
-- 📈 **Business Development & Innovation**  
-  Experienced in driving startup growth, technology adoption, partnership building, and product management.
+Over a decade of hands-on experience in cybersecurity, full-stack development, and digital growth strategy. I founded **[6amsolution Private Limited](https://6amsolution.pk)** in 2015 to deliver advanced security consulting, open-source tooling, and digital transformation services to organizations worldwide.
 
 ---
 
-## 🏢 About 6amsolution Private Limited
+## ⚡ What I Do
 
-6amsolution is a pioneering technology company delivering cutting-edge cybersecurity solutions and digital transformation services. We build advanced open-source tools, provide consulting for penetration testing, and help businesses secure their digital assets.
+<table>
+<tr>
+<td width="50%">
 
-- **Founded:** 2015  
-- **Headquarters:** Pakistan  
-- **Email:** [6amsolution@gmail.com](mailto:6amsolution@gmail.com)  
-- **Website:** [https://6amsolution.pk](https://6amsolution.pk)  
-- **Twitter:** [@6amsolution](https://twitter.com/6amsolution)  
-- **LinkedIn:** [6amsolution](https://linkedin.com/company/6amsolution)
+### 🔴 Offensive Security
+- Penetration Testing & Vulnerability Research
+- Bug Bounty Hunting (HackerOne · Bugcrowd)
+- Red Team Operations & Simulated Attacks
+- Automated Recon & Exploitation Tooling
 
----
+</td>
+<td width="50%">
 
-## 💼 Services Offered
+### 💻 Full-Stack Development
+- Secure Web Apps (React · Node.js · Django · Flask)
+- RESTful & GraphQL API Design
+- E-commerce Platforms & Payment Integration
+- Python · JavaScript · Golang · Bash
 
-### Cybersecurity Services
-- **Offensive Security & Penetration Testing**  
-  Comprehensive security audits, vulnerability assessments, and red team exercises to identify and mitigate risks.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-- **Bug Bounty Program Consulting**  
-  Helping companies build and manage effective bug bounty programs, while providing expert vulnerability research.
+### 📈 SEO & Digital Growth
+- Keyword Research & On/Off-Page SEO
+- Content Marketing & Social Campaigns
+- Sales Funnel & E-commerce Growth Strategy
 
-- **Red Teaming Operations**  
-  Simulated cyberattacks to test an organization's detection and response capabilities.
+</td>
+<td width="50%">
 
-- **Automated Security Tool Development**  
-  Custom tool development for reconnaissance, exploitation, and post-exploitation automation.
+### 🏢 Business & Consulting
+- Startup Scaling & Partnership Development
+- Bug Bounty Program Design for Enterprises
+- Security Awareness Training
+- Product Management & Tech Adoption
 
-### Web & Software Development
-- **Full-Stack Web Application Development**  
-  Secure, scalable web apps using modern technologies like React, Node.js, Django, and Flask.
-
-- **API Development & Integration**  
-  RESTful and GraphQL API design and deployment for seamless backend-frontend communication.
-
-- **E-commerce Solutions**  
-  Customized e-commerce platforms, payment gateway integration, and SEO-optimized storefronts.
-
-### Digital Marketing & SEO
-- **Search Engine Optimization (SEO)**  
-  Strategic keyword research, on-page/off-page SEO, and content marketing to improve search rankings.
-
-- **Social Media & Content Marketing**  
-  Brand promotion through effective social campaigns and content creation.
-
-- **E-commerce Growth Strategy**  
-  Sales funnel optimization and marketing automation for enhanced customer acquisition.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Open Source Projects & Tools
+## 🛠 Open Source Arsenal
 
-I actively develop and maintain several tools aimed at security researchers, bug bounty hunters, and red teamers:
-
-| Tool Name      | Description                                     | Language     | Key Features                                      |
-|----------------|------------------------------------------------|--------------|--------------------------------------------------|
-| **ReconFury**  | Comprehensive subdomain enumeration framework   | Python, Bash | Passive + Active enumeration, CT logs scraping, DNS validation |
-| **InjecTalon** | Automated SQL Injection detection and testing   | Python       | GET/POST injection tests, time-based blind SQLi, NoSQLi detection |
-| *(Upcoming tools)* | Continuous development on security automation | Various      | Stay tuned!                                      |
-
-Each tool is designed for modularity, ease of use, and incorporates best practices from the cybersecurity community.
-
----
-
-## 🛠 Technologies & Tools I Use
-
-- **Security Tools:**  
-  Amass, Subfinder, Nuclei, Burp Suite, OWASP ZAP, SQLMap, Commix, DNSx, Recon-ng
-
-- **Programming Languages:**  
-  Python, Bash, JavaScript, Golang
-
-- **Frameworks & Libraries:**  
-  Django, Flask, React
-
-- **Platforms:**  
-  GitHub, HackerOne, Bugcrowd, LinkedIn, Twitter
-
----
-
-## 📚 Learning & Training Resources
-
-Continuous learning is key to success in security and development. Here are some platforms and resources I recommend:
-
-- **Damn Vulnerable Web Application (DVWA)** – For practicing web vulnerabilities including SQL injection.  
-- **OWASP Top 10** – Understanding the most critical web security risks.  
-- **Bug Bounty Platforms** – HackerOne, Bugcrowd to engage with real-world bug bounty programs.  
-- **Books & Courses** – “The Web Application Hacker's Handbook”, Offensive Security Certified Professional (OSCP).
-
----
-
-## 📖 How To Use My Tools
-
-### Example: Running ReconFury for Subdomain Enumeration
+### 🔍 [ReconFury](https://github.com/6amsolution/ReconFury)
+> Comprehensive subdomain enumeration & reconnaissance framework
 
 ```bash
 git clone https://github.com/6amsolution/ReconFury.git
-cd ReconFury
-pip install -r requirements.txt
-python3 reconfury.py -u example.com
+cd ReconFury && pip install -r requirements.txt
+python3 reconfury.py -u target.com
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+- Passive + Active subdomain enumeration
+- Certificate Transparency log scraping
+- DNS validation pipeline
+
+---
+
+### 💉 [InjecTalon](https://github.com/6amsolution/InjecTalon)
+> Automated SQL & NoSQL injection detection engine
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- GET/POST parameter injection testing
+- Time-based blind SQLi detection
+- NoSQL injection support
+
+---
+
+### 🔭 More tools in active development — watch this space.
+
+---
+
+## 🧰 Tech Stack
+
+**Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square)
+![Nuclei](https://img.shields.io/badge/Nuclei-00ADEF?style=flat-square)
+![Amass](https://img.shields.io/badge/Amass-333333?style=flat-square)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square)
+![Recon--ng](https://img.shields.io/badge/Recon--ng-6A0DAD?style=flat-square)
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6amsolution&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6amsolution&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🏢 About 6amsolution
+
+> *Cybersecurity solutions and digital transformation since 2015.*
+
+6amsolution Private Limited is a Pakistan-based technology company delivering penetration testing, custom security tooling, web development, and SEO consulting. We help businesses identify vulnerabilities before attackers do — and build digital products that scale.
+
+📧 **[6amsolution@gmail.com](mailto:6amsolution@gmail.com)**  
+🌐 **[6amsolution.pk](https://6amsolution.pk)**
+
+---
+
+## 📚 Recommended Resources
+
+For fellow security researchers and learners:
+
+| Resource | Purpose |
+|---|---|
+| [DVWA](https://github.com/digininja/DVWA) | Practice web vulnerabilities hands-on |
+| [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Critical web security risk reference |
+| [HackerOne](https://hackerone.com) | Real-world bug bounty programs |
+| [Bugcrowd](https://bugcrowd.com) | Crowdsourced security platform |
+| The Web Application Hacker's Handbook | Deep-dive into webapp exploitation |
+| OSCP (OffSec) | Practical penetration testing certification |
+
+---
+
+<div align="center">
+
+*"Security is not a product, but a process."*
+
+**— If you find value in my work, drop a ⭐ on any repo. It matters.**
+
+</div>
